@@ -1,0 +1,17 @@
+# Mac OS X
+.DS_Store
+
+## Various settings
+xcuserdata
+
+
+## Other
+*.xccheckout
+*.xcuserstate
+*.xcscmblueprint
+
+# Carthage
+Carthage/Build
+
+#CocoaPods
+Pods
